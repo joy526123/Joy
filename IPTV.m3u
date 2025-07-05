@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TVBSNews.tw",TVBS News
-https://www.youtube.com/watch?v=m_dhMSvUCIc
+http://61.222.191.61/live/ch27/playlist.m3u8
 #EXTINF:-1 tvg-id="CTINews.tw",中天新聞
 https://www.youtube.com/watch?v=vr3XyVCR4T0
 #EXTINF:-1 tvg-id="FTVNews.com",民視新聞
@@ -11,5 +11,3 @@ https://www.youtube.com/watch?v=MV9mI0GChwo
 https://www.youtube.com/watch?v=pF507BLtbqU
 #EXTINF:-1 tvg-id="Plurk.com",我們這一家
 https://www.youtube.com/watch?v=WHednLn-HjA
-#EXTINF:-1,TVBS 新聞台
-http://61.222.191.61/live/ch27/playlist.m3u8
