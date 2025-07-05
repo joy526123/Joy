@@ -1,1 +1,15 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-id="TVBSAsia.tw",TVBS Asia
+http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
+#EXTINF:-1 tvg-id="TVBSNews.tw",TVBS News
+https://www.youtube.com/watch?v=m_dhMSvUCIc
+#EXTINF:-1 tvg-id="CTINews.tw",中天新聞
+https://www.youtube.com/watch?v=vr3XyVCR4T0
+#EXTINF:-1 tvg-id="FTVNews.com",民視新聞
+https://www.youtube.com/watch?v=ylYJSBUgaMA
+#EXTINF:-1 tvg-id="SETN.com",三立新聞
+https://www.youtube.com/watch?v=MV9mI0GChwo
+#EXTINF:-1 tvg-id="SETN.com",三立iNEWS
+https://www.youtube.com/watch?v=pF507BLtbqU
+#EXTINF:-1 tvg-id="Plurk.com",我們這一家
+https://www.youtube.com/watch?v=WHednLn-HjA
