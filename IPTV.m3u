@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TVBSNews.tw",TVBS News
-http://106.107.177.223:50007/4gtv-4gtv072/index.m3u8
-#EXTINF:-1 tvg-id="CTINews.tw",中天新聞
-https://www.youtube.com/watch?v=vr3XyVCR4T0
+#EXTINF:-1 tvg-id="TVBSNews.tw",TVBS 新聞台
+http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="CTINews.tw",中天新聞台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 #EXTINF:-1 tvg-id="FTVNews.com",民視新聞
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 #EXTINF:-1 tvg-id="SETN.com",三立新聞
-https://www.youtube.com/watch?v=MV9mI0GChwo
+http://seb.sason.top/sc/sllive_fhd.m3u8
 #EXTINF:-1 tvg-id="SETN.com",三立iNEWS
 https://www.youtube.com/watch?v=pF507BLtbqU
 #EXTINF:-1 tvg-id="Plurk.com",我們這一家
