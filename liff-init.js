@@ -5,7 +5,13 @@ liff.init({
 }).then(function() {
   console.log('LIFF init');
   
-  // 這邊開始寫使用其他功能
+  // liff.scanCode()
+  .then(function(res) {
+    console.log(res);
+  })
+  .catch(function(error) {
+    console.log(error);
+  });
   
 }).catch(function(error) {
   console.log(error);
